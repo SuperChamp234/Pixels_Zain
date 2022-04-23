@@ -1,0 +1,10 @@
+10,John,CSE
+23,Mary,CSE
+45,Peter,MTECH
+67,May,MTECH
+89,June,MTECH
+43,July,ARTS
+56,August,ARTS
+78,September,ARTS
+90,October,ARTS
+34,November,DIPLOMA
